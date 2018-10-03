@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainersSalary", "TrainersSalary\TrainersSalary.csproj", "{DC7E6DF2-046E-48CE-B9F6-B5214EABCA1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass", "Hourglass\Hourglass.csproj", "{335E5B23-76F2-4F13-8B50-5B1F473477D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumbersSum", "TwoNumbersSum\TwoNumbersSum.csproj", "{3AACE2E9-5098-4437-97FF-B0AF4D30D563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7E6DF2-046E-48CE-B9F6-B5214EABCA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7E6DF2-046E-48CE-B9F6-B5214EABCA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7E6DF2-046E-48CE-B9F6-B5214EABCA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7E6DF2-046E-48CE-B9F6-B5214EABCA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335E5B23-76F2-4F13-8B50-5B1F473477D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335E5B23-76F2-4F13-8B50-5B1F473477D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335E5B23-76F2-4F13-8B50-5B1F473477D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335E5B23-76F2-4F13-8B50-5B1F473477D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AACE2E9-5098-4437-97FF-B0AF4D30D563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AACE2E9-5098-4437-97FF-B0AF4D30D563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AACE2E9-5098-4437-97FF-B0AF4D30D563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AACE2E9-5098-4437-97FF-B0AF4D30D563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
